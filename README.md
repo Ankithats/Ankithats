@@ -50,10 +50,10 @@ I am a Python Developer focused on building scalable web applications and REST A
 
 ### 🏢 Company Projects
 
-- **SalexiHR System**  
+- **SalexiHR System**  *(Private Company Project)* 
   HR management system with authentication (JWT/MFA), employee management, CRUD modules, and Azure integration. Worked on backend APIs and database operations.
 
-- **Threem UI**  
+- **Threem UI**  *(Private Company Project)* 
   Frontend UI development project built for company applications with responsive design and reusable component architecture.
 
 ---
