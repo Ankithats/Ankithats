@@ -2,7 +2,7 @@
 
 ## Software Developer | Full Stack Developer | Backend Focused
 
-I am a Python Developer focused on building scalable web applications and REST APIs using Django/FastAPI, React, and SQL databases.
+Software Developer focused on building scalable backend applications and REST APIs using Python (FastAPI, Django), ASP.NET Core, React, and SQL databases.
 
 ---
 
@@ -12,6 +12,7 @@ I am a Python Developer focused on building scalable web applications and REST A
 - Python
 - Django / FastAPI
 - Django REST Framework (DRF)
+- ASP.NET Core
 - REST APIs
 - JWT Authentication
 
